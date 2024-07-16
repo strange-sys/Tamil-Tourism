@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "Thanjavur Big Temple",
+        "price": 750,
+        "image": "images/Thanjavur.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Kanniyakumari",
+        "price": 1000,
+        "image": "images/Kaniyakkumari.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Kodaikkanal",
+        "price": 1250,
+        "image": "images/Kodaikkanal.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Munnar",
+        "price": 1400,
+        "image": "images/Munnar.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mahabalipuram",
+        "price": 900,
+        "image": "images/Mahabalipuram.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Wonderla, Kerala",
+        "price": 2500,
+        "image": "images/Wonderla.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Kolli Hilss",
+        "price": 800,
+        "image": "images/kolli.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Madurai",
+        "price": 800,
+        "image": "images/madurai.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Ooty",
+        "price": 1200,
+        "image": "images/ooty.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Varkala, Kerala",
+        "price": 2800,
+        "image": "images/varkala.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Pondicheri",
+        "price": 800,
+        "image": "images/pondi.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Vagamon, Kerala",
+        "price": 1700,
+        "image": "images/vagamon.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Dhanushkodi",
+        "price": 1200,
+        "image": "images/dk.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Allapuzha, Kerala",
+        "price": 1500,
+        "image": "images/Alla.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Trivandrum, Kerala",
+        "price": 1500,
+        "image": "images/Trivandrum.jpg"
+    }
+]
